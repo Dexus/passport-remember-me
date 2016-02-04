@@ -1,8 +1,8 @@
 {
   "name": "passport-remember-me",
-  "version": "0.0.1",
-  "description": "Remember Me cookie authentication strategy for Passport.",
-  "keywords": ["passport", "cookie", "persistent", "rememberme", "auth", "authn", "authentication"],
+  "version": "0.0.2",
+  "description": "Remember Me cookie|header authentication strategy for Passport.",
+  "keywords": ["passport", "cookie", "header", "persistent", "rememberme", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
     "url": "git://github.com/jaredhanson/passport-remember-me.git"
@@ -14,6 +14,11 @@
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
+  },
+  "author": {
+    "name": "Karl Vaillant",
+    "email": "vaillant.karl.971@gmail.com",
+    "url": "http://www.karlvaillant.fr/"
   },
   "licenses": [ {
     "type": "MIT",
